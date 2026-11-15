@@ -1,0 +1,2 @@
+{"name":"CC的工作日常","short_name":"CC日常","lang":"zh-CN","start_url":"./index.html#/home","scope":"./","display":"standalone","orientation":"portrait","background_color":"#F4F6F9","theme_color":"#FFFFFF",
+"icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icons/icon-512-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
